@@ -1,3 +1,2 @@
 *.ipynb
-datasets/
-cell_images/
+.png
